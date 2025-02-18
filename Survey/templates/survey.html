@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>问卷调查</title>
+    <style>
+        .question {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+        .options {
+            list-style-type: none;
+            padding: 0;
+        }
+        .option {
+            padding: 10px;
+            margin: 5px 0;
+            background: #f5f5f5;
+            cursor: move;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ survey['title'] }}</h1>
+    <form action="{{ url_for('submit') }}" method="post">
+        <input type="hidden" name="survey_id" value="{{ survey_id }}">
+        {% for question in survey['questions'] %}
+        <div class="question">
+            <h3>{{ question['text'] }}</h3>
+            <ul class="options" id="options_{{ question['id'] }}">
+                {% for option in question['options'] %}
+                <li class="option" draggable="true">{{ option }}</li>
+                {% endfor %}
+            </ul>
+            <input type="hidden" name="question_{{ question['id'] }}" id="ranking_{{ question['id'] }}">
+        </div>
+        {% endfor %}
+        <button type="submit">提交</button>
+    </form>
+
+    <script>
+        document.querySelectorAll('.options').forEach(optionList => {
+            let draggedItem = null;
+
+            optionList.addEventListener('dragstart', function(e) {
+                draggedItem = e.target;
+                setTimeout(() => e.target.style.display = "none", 0);
+            });
+
+            optionList.addEventListener('dragend', function(e) {
+                setTimeout(() => e.target.style.display = "block", 0);
+                updateRanking(optionList);
+            });
+
+            optionList.addEventListener('dragover', function(e) {
+                e.preventDefault();
+            });
+
+            optionList.addEventListener('drop', function(e) {
+                e.preventDefault();
+                const target = e.target.closest('.option');
+                if (target && draggedItem !== target) {
+                    const allItems = [...optionList.querySelectorAll('.option')];
+                    const draggedPos = allItems.indexOf(draggedItem);
+                    const droppedPos = allItems.indexOf(target);
+
+                    if (draggedPos < droppedPos) {
+                        target.parentNode.insertBefore(draggedItem, target.nextSibling);
+                    } else {
+                        target.parentNode.insertBefore(draggedItem, target);
+                    }
+                    updateRanking(optionList);
+                }
+            });
+        });
+
+        // 确保在页面加载时初始化所有排名
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('.options').forEach(updateRanking);
+        });
+
+        function updateRanking(optionList) {
+            const questionId = optionList.id.replace('options_', '');
+            const rankings = Array.from(optionList.querySelectorAll('.option'))
+                                .map(option => option.textContent.trim())
+                                .join(',');
+            document.getElementById(`ranking_${questionId}`).value = rankings;
+            // 打印更新的排名，用于调试
+            console.log(`Question ${questionId} rankings updated:`, rankings);
+        }
+    </script>
+</body>
+</html> 
