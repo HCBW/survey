@@ -1,0 +1,285 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Best answer for the main reasons for climate change.",
+      "option1": "Greenhouse gas emissions from burning fossil fuels.",
+      "option2": "Deforestation leading to reduced carbon absorption.",
+      "option3": "Industrial processes and agriculture contributing to methane emissions.",
+      "option4": "Increased waste production and landfill emissions.",
+      "option5": "Changes in land use and urbanization."
+    },
+    {
+      "id": "q2",
+      "text": "Best answer for rephrasing the sentence: \"The project was completed on time, but the quality did not meet expectations.\"",
+      "option1": "The project finished on schedule, yet the quality fell short of expectations.",
+      "option2": "The deadline was met, but the quality was below expectations.",
+      "option3": "The project was completed promptly, though the quality did not meet the desired standards.",
+      "option4": "Despite the project being completed on time, its quality was not up to par.",
+      "option5": "The completion of the project was on time, but the expected quality was not achieved."
+    },
+    {
+      "id": "q3",
+      "text": "Best answer for the key advantages of renewable energy sources.",
+      "option1": "Sustainable and inexhaustible sources of energy.",
+      "option2": "Reduces greenhouse gas emissions and air pollution.",
+      "option3": "Reduces dependence on finite fossil fuels.",
+      "option4": "Creates jobs and boosts local economies.",
+      "option5": "Lowers energy costs in the long term."
+    },
+    {
+      "id": "q4",
+      "text": "Best answer for the main reasons for the rise in global income inequality.",
+      "option1": "Technological advancements increasing wage disparities.",
+      "option2": "Globalization leading to unequal distribution of wealth.",
+      "option3": "Decline in unionized labor and worker bargaining power.",
+      "option4": "Tax policies that favor the wealthy.",
+      "option5": "Unequal access to quality education and skills development."
+    },
+    {
+      "id": "q5",
+      "text": "Best answer for the primary disadvantages of nuclear power.",
+      "option1": "High costs of building and maintaining nuclear plants.",
+      "option2": "Risk of nuclear accidents and radiation exposure.",
+      "option3": "Generation of radioactive waste with long-term disposal challenges.",
+      "option4": "Limited uranium supply and the potential for resource depletion.",
+      "option5": "Security concerns and the potential for nuclear weapons proliferation."
+    },
+    {
+      "id": "q6",
+      "text": "Best answer for the main factors contributing to the popularity of online shopping.",
+      "option1": "Convenience of shopping from home at any time.",
+      "option2": "Wider selection of products and brands.",
+      "option3": "Often lower prices and discounts.",
+      "option4": "Ease of comparing prices and reading reviews.",
+      "option5": "Fast and convenient home delivery."
+    },
+    {
+      "id": "q7",
+      "text": "Best answer for the most significant causes of pollution in urban areas.",
+      "option1": "Vehicle emissions from high traffic volumes.",
+      "option2": "Industrial activities and factory emissions.",
+      "option3": "Construction and demolition activities.",
+      "option4": "Waste disposal and landfill sites.",
+      "option5": "Use of non-renewable energy sources for heating and electricity."
+    },
+    {
+      "id": "q8",
+      "text": "Best answer for rephrasing the sentence: \"The economy has shown signs of recovery, but the unemployment rate remains high.\"",
+      "option1": "The economy is recovering, yet unemployment continues to be elevated.",
+      "option2": "While there are signs of economic recovery, high unemployment persists.",
+      "option3": "Economic recovery is evident, but unemployment levels are still significant.",
+      "option4": "The economy is bouncing back, but unemployment remains a challenge.",
+      "option5": "Despite recovery in the economy, unemployment rates are still high."
+    },
+    {
+      "id": "q9",
+      "text": "Best answer for the main reasons behind the decline in biodiversity across the world.",
+      "option1": "Habitat destruction due to deforestation and urbanization.",
+      "option2": "Pollution affecting ecosystems and wildlife.",
+      "option3": "Climate change altering habitats and migration patterns.",
+      "option4": "Overfishing and hunting causing species depletion.",
+      "option5": "Invasive species outcompeting native species."
+    },
+    {
+      "id": "q10",
+      "text": "Best answer for the main causes of deforestation.",
+      "option1": "Agricultural expansion for crops and livestock.",
+      "option2": "Logging for timber and paper products.",
+      "option3": "Infrastructure development like roads and urban expansion.",
+      "option4": "Mining activities and extraction of natural resources.",
+      "option5": "Forest fires, both natural and human-induced."
+    },
+    {
+      "id": "q11",
+      "text": "Best answer for the main reasons for the failure of many startups in their first few years.",
+      "option1": "Lack of sufficient funding and capital.",
+      "option2": "Poor market research and understanding of customer needs.",
+      "option3": "Ineffective business models or strategies.",
+      "option4": "Inexperienced or poorly skilled leadership.",
+      "option5": "Failure to adapt to market trends or competition."
+    },
+    {
+      "id": "q12",
+      "text": "Best answer for rephrasing the sentence: \"Due to unforeseen circumstances, the event had to be rescheduled.\"",
+      "option1": "Due to unexpected situations, the event was postponed.",
+      "option2": "The event had to be rescheduled because of unforeseen factors.",
+      "option3": "Due to unforeseen events, we had to move the event to a later date.",
+      "option4": "The event was rescheduled as a result of unexpected developments.",
+      "option5": "Due to unanticipated circumstances, the event could not proceed as planned."
+    },
+    {
+      "id": "q13",
+      "text": "Best answer for the main factors contributing to the aging population in developed countries.",
+      "option1": "Increased life expectancy due to improved healthcare.",
+      "option2": "Lower birth rates resulting from social and economic factors.",
+      "option3": "Delayed family formation and childbearing.",
+      "option4": "The decline of fertility rates.",
+      "option5": "Better healthcare and medical technology, leading to longer life spans."
+    },
+    {
+      "id": "q14",
+      "text": "Best answer for the key advantages of remote work for employees.",
+      "option1": "Greater work-life balance and flexibility.",
+      "option2": "Reduced commuting time and expenses.",
+      "option3": "Increased productivity in a comfortable environment.",
+      "option4": "Access to a broader range of job opportunities.",
+      "option5": "Ability to create a personalized workspace."
+    },
+    {
+      "id": "q15",
+      "text": "Best answer for the primary disadvantages of using social media in modern society.",
+      "option1": "Privacy concerns and data security risks.",
+      "option2": "Spread of misinformation and fake news.",
+      "option3": "Impact on mental health, including anxiety and depression.",
+      "option4": "Reduced face-to-face social interaction and relationships.",
+      "option5": "Addiction to social media platforms leading to wasted time."
+    },
+    {
+      "id": "q16",
+      "text": "Best answer for the main drawbacks of relying on technology in education.",
+      "option1": "Limited access to technology for underprivileged students.",
+      "option2": "Potential for distractions during online learning.",
+      "option3": "Lack of personalized learning in automated systems.",
+      "option4": "Technical issues and internet connectivity problems.",
+      "option5": "Over-reliance on digital tools leading to reduced human interaction."
+    },
+    {
+      "id": "q17",
+      "text": "Best answer for the main reasons for the declining quality of air in major cities.",
+      "option1": "High levels of vehicle emissions from traffic congestion.",
+      "option2": "Industrial pollution and factory emissions.",
+      "option3": "Construction and infrastructure development.",
+      "option4": "Burning of fossil fuels for energy production.",
+      "option5": "Agricultural practices such as the burning of crops."
+    },
+    {
+      "id": "q18",
+      "text": "Best answer for the key reasons for the increased use of mobile apps in daily life.",
+      "option1": "Convenience and accessibility on-the-go.",
+      "option2": "Wide range of services, from shopping to banking.",
+      "option3": "Improved user experience with streamlined features.",
+      "option4": "Increased smartphone penetration and mobile connectivity.",
+      "option5": "Social media and entertainment platforms available at your fingertips."
+    },
+    {
+      "id": "q19",
+      "text": "Best answer for the main causes of the rise in mental health issues among teenagers.",
+      "option1": "Increased pressure to succeed academically and socially.",
+      "option2": "The negative impact of social media and online bullying.",
+      "option3": "Lack of adequate mental health education and resources.",
+      "option4": "Family issues, such as divorce or financial stress.",
+      "option5": "Peer pressure and unrealistic societal expectations."
+    },
+    {
+      "id": "q20",
+      "text": "Best answer for rephrasing the sentence: \"The project has been delayed, but it will eventually be completed.\"",
+      "option1": "The project experienced delays, but it will be finished eventually.",
+      "option2": "Although the project is behind schedule, it will be completed in due time.",
+      "option3": "The project has been postponed, but it is expected to be completed soon.",
+      "option4": "While the project is delayed, it will eventually reach completion.",
+      "option5": "Despite the delay, the project will be completed at a later date."
+    },
+    {
+      "id": "q21",
+      "text": "Best answer for the main advantages of urban green spaces.",
+      "option1": "Improved air quality and reduced pollution.",
+      "option2": "Providing recreational areas for physical activity.",
+      "option3": "Promoting biodiversity and providing habitats for wildlife.",
+      "option4": "Offering spaces for social interaction and community events.",
+      "option5": "Reducing the urban heat island effect and cooling the city."
+    },
+    {
+      "id": "q22",
+      "text": "Best answer for the primary challenges in achieving global climate goals.",
+      "option1": "Political and economic barriers to implementing climate policies.",
+      "option2": "Lack of international cooperation and agreements.",
+      "option3": "High costs and investment required for renewable energy infrastructure.",
+      "option4": "Resistance from industries that rely on fossil fuels.",
+      "option5": "Disparities in development and climate vulnerability among nations."
+    },
+    {
+      "id": "q23",
+      "text": "Best answer for the most common causes of traffic congestion in major cities.",
+      "option1": "High vehicle volumes due to urban population growth.",
+      "option2": "Insufficient or outdated public transportation systems.",
+      "option3": "Traffic accidents and roadblockages.",
+      "option4": "Inefficient traffic signal management.",
+      "option5": "Construction and roadwork projects disrupting normal traffic flow."
+    },
+    {
+      "id": "q24",
+      "text": "Best answer for the main causes of the rise in global food prices.",
+      "option1": "Poor weather conditions affecting crop production.",
+      "option2": "Supply chain disruptions, including transport issues.",
+      "option3": "Increased demand for food due to population growth.",
+      "option4": "Rising fuel and transportation costs.",
+      "option5": "Trade restrictions and tariffs imposed by governments."
+    },
+    {
+      "id": "q25",
+      "text": "Best answer for the advantages of learning a second language.",
+      "option1": "Improved cognitive abilities and problem-solving skills.",
+      "option2": "Better career opportunities and job market competitiveness.",
+      "option3": "Enhanced cultural understanding and empathy.",
+      "option4": "Increased ability to communicate with a wider range of people.",
+      "option5": "Delays the onset of age-related cognitive decline."
+    },
+    {
+      "id": "q26",
+      "text": "Best answer for the reasons for the rise of homelessness in urban areas.",
+      "option1": "High housing costs and lack of affordable housing.",
+      "option2": "Unemployment and underemployment.",
+      "option3": "Mental health issues and substance abuse.",
+      "option4": "Family breakdowns and domestic violence.",
+      "option5": "Lack of social safety nets and support systems."
+    },
+    {
+      "id": "q27",
+      "text": "Best answer for the main advantages of public transportation compared to private vehicles.",
+      "option1": "Reduces traffic congestion and pollution.",
+      "option2": "More affordable for individuals and families.",
+      "option3": "Decreases dependence on fossil fuels.",
+      "option4": "Provides a viable alternative for non-drivers and those without cars.",
+      "option5": "Reduces the number of accidents and fatalities on the road."
+    },
+    {
+      "id": "q28",
+      "text": "Best answer for rephrasing the sentence: \"Although the company's profits soared, employee satisfaction remained low.\"",
+      "option1": "Despite the company's high profits, employee satisfaction remained poor.",
+      "option2": "While the company's profits increased, employee morale stayed low.",
+      "option3": "The company's profits surged, but employee satisfaction continued to decline.",
+      "option4": "Even though profits soared, employee satisfaction was still low.",
+      "option5": "Despite the company's financial success, employees were not satisfied."
+    },
+    {
+      "id": "q29",
+      "text": "Best answer for the key advantages of drinking water regularly.",
+      "option1": "Supports overall health and body functions.",
+      "option2": "Improves energy levels and concentration.",
+      "option3": "Aids in digestion and detoxification.",
+      "option4": "Helps maintain healthy skin.",
+      "option5": "Regulates body temperature and prevents dehydration."
+    },
+    {
+      "id": "q30",
+      "text": "Best answer for the main reasons for exercising regularly.",
+      "option1": "Improves physical health and fitness.",
+      "option2": "Boosts mood and mental health.",
+      "option3": "Increases energy levels and reduces fatigue.",
+      "option4": "Helps maintain a healthy weight.",
+      "option5": "Reduces the risk of chronic diseases like heart disease and diabetes."
+    }
+  ],
+  "demographics": [
+    {
+      "id": "d1",
+      "text": "What best describes you?",
+      "option1": "I am a Stanford Student",
+      "option2": "I am a student at another U.S university",
+      "option3": "None of the above, but I live in the U.S",
+      "option4": "None of the above, and I live outside the U.S",
+      "option5": "Other"
+    }
+  ]
+} 
